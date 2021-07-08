@@ -1,0 +1,2 @@
+# HotelManagementSystem
+Hotel Management System is a desktop based application made using swing, a concept of Java Core and Database used here is MySQL. As I wanted to learn Java and JDBC concept and since its my first java based Miniproject so I referred one of the YouTube channels and typed the code to understand the working of this project and also I have made some modification in the updation part of this project. I hope images in the HMS_Output_pics will give some idea!
